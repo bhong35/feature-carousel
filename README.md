@@ -1,23 +1,27 @@
-# Project Name
+# Gammazon - Carousel
 
-> Project description
+> Replica of Amazon Product Page
 
 ## Related Projects
 
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-
+  - https://github.com/Gammazon/feature-carousel
+  - https://github.com/Gammazon/feature-display
+  - https://github.com/Gammazon/Feature-Bottom-bar
+  - https://github.com/Gammazon/Feature-Top-Bar
+  - https://github.com/Gammazon/product-description
+  - https://github.com/Gammazon/featureReviews
+  
 ## Table of Contents
 
 1. [Usage](#Usage)
 1. [Requirements](#requirements)
 1. [Development](#development)
 
+![Component](../carousel.gif)
+
 ## Usage
 
-> Some usage instructions
+> Press left button to render the previous 8 items, and right button to render the next 8 items. Clicking a product image, name, or price will redirect to that product's page.
 
 ## Requirements
 

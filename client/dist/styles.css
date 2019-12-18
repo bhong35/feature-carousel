@@ -8,10 +8,12 @@
     font-family: "Amazon-Ember";
     font-size: 20px;
     color: #C45500;
+    margin-left: 240px;
 }
 
 .frame {
     display: flex;
+    justify-content: center;
 }
 
 .image-frame {
@@ -22,7 +24,7 @@
 
 .buttons {
     display: flex;
-    align-self: flex-end;
+    align-self: center;
     font-family: "Amazon-Ember";
     background: #e7e9ec;
     border-radius: 3px;
@@ -63,8 +65,8 @@
 .image {
     width: 120px;
     height: 120px;
-    padding-left: 20px;
-    padding-right: 20px;
+    padding-left: 25px;
+    padding-right: 25px;
     cursor: pointer;
 }
 
