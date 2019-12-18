@@ -18,7 +18,7 @@
 1. [Requirements](#requirements)
 1. [Development](#development)
 
-![Component](../carousel.gif)
+![Carousel](./carousel.gif)
 
 ## Usage
 
