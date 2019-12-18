@@ -1,6 +1,6 @@
 # Gammazon - Carousel
 
-> Replica of Amazon Product Page
+> Product carousel component of Amazon Product Page replica
 
 ## Related Projects
 
@@ -10,6 +10,7 @@
   - https://github.com/Gammazon/Feature-Top-Bar
   - https://github.com/Gammazon/product-description
   - https://github.com/Gammazon/featureReviews
+  - https://github.com/Gammazon/BenProxy
   
 ## Table of Contents
 
