@@ -85,11 +85,11 @@ This project was focused on exercising my front-end skills with raw CSS. As part
 I was able to hone my competency with CSS FlexBox, and soldified my grasp on ReactJS. Furthermore, I learned to deploy my microservice and proxyserver using a combination of Docker and AWS Elastic Beanstalk. Multiple AWS services including S3 and RDS were picked up to implement the app.
 
 ## Contributors
-Carousel and Display - [Benjamin Hong](https://github.com/bhong35)
-Shopping Cart - [Kytra Murphree](https://github.com/KytraScript)
-Product Description - [Sam Lawson](https://github.com/samlawson355)
-Reviews - [Tim Sanderson](https://github.com/timsand)
-Top and Bottom Bar - [Matt Lucas](https://github.com/mlucas24)
+- Carousel and Display - [Benjamin Hong](https://github.com/bhong35)
+- Shopping Cart - [Kytra Murphree](https://github.com/KytraScript)
+- Product Description - [Sam Lawson](https://github.com/samlawson355)
+- Reviews - [Tim Sanderson](https://github.com/timsand)
+- Top and Bottom Bar - [Matt Lucas](https://github.com/mlucas24)
 
 ## RelatedProjects
   - https://github.com/Gammazon/feature-carousel
