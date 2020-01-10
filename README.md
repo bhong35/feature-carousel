@@ -82,7 +82,7 @@ npm run react-dev
 This project was focused on exercising my front-end skills with raw CSS. As part of a team of 5, the end product was for the full-stack carousel microservice to be incorporated into a proxy server and deployed to complete the Gammazon product page.
 
 ## Learnings
-I was able to hone my competency with CSS FlexBox, and soldified my grasp on ReactJS. Furthermore, I learned to deploy my microservice and proxyserver using a combination of Docker and AWS Elastic Beanstalk. Multiple AWS services including S3 and RDS were picked up to implement the app.
+I was able to hone my competency with CSS FlexBox, and soldified my grasp on ReactJS. Furthermore, I learned to deploy my microservice and proxyserver using a combination of Docker and AWS Elastic Beanstalk. Multiple AWS services including S3 and RDS were learned to implement the app.
 
 ## Contributors
 - Carousel and Display - [Benjamin Hong](https://github.com/bhong35)
